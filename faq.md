@@ -9,7 +9,7 @@ title: F.A.Q.
 https://preview.redoc.ly/redocly/new-site/pricing
 
 
-## Can I do ______?
+## Can I do XYZ?
 
 Please contact us.
 
